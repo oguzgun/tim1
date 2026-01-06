@@ -57,4 +57,4 @@ Tek başına harcayınca:
 Speedup, “konfor” değil “operasyon” aracıdır.
 
 Sonraki okuma:  
-👉 [03_Events_Everyone_Misplays.md](community_insights/03_Events_Everyone_Misplays.md)
+👉 [03_Events_Everyone_Misplays.md](03_Events_Everyone_Misplays.md)

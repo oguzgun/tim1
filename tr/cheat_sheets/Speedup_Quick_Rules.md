@@ -6,4 +6,4 @@
 4) Spike hedefi yoksa harcama yok
 
 Neden?  
-👉 [../community_insights/02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)
+👉 [../community_insights/02_Speedup_Economy.md](../community_insights/02_Speedup_Economy.md)

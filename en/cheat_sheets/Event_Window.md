@@ -9,4 +9,4 @@
 - use speedups to complete
 
 Deep explanation:  
-👉 [../community_insights/02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)
+👉 [../community_insights/02_Speedup_Economy.md](../community_insights/02_Speedup_Economy.md)

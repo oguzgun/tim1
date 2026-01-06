@@ -13,4 +13,4 @@ That’s it.
 - attempt solo hero plays
 
 Why we’re strict:  
-👉 [../community_insights/03_Events_Everyone_Misplays.md](community_insights/03_Events_Everyone_Misplays.md)
+👉 [../community_insights/03_Events_Everyone_Misplays.md](../community_insights/03_Events_Everyone_Misplays.md)

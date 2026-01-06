@@ -72,4 +72,4 @@ Erken oyunun amacı “güçlü görünmek” değil:
 - research’i boş bırakmamak
 
 Bir sonraki okuma:  
-👉 [02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)
+👉 [02_Speedup_Economy.md](02_Speedup_Economy.md)

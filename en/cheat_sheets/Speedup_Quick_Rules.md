@@ -6,4 +6,4 @@
 4) no spike target = no spend
 
 Why:  
-👉 [../community_insights/02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)
+👉 [../community_insights/02_Speedup_Economy.md](../community_insights/02_Speedup_Economy.md)

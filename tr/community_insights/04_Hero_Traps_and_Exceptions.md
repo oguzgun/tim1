@@ -36,4 +36,4 @@ Ama veteran bakışı daha serttir:
 ---
 
 Sonraki okuma:  
-👉 [05_Research_Regrets.md](community_insights/05_Research_Regrets.md)
+👉 [05_Research_Regrets.md](05_Research_Regrets.md)

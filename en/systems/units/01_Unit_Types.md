@@ -12,4 +12,4 @@ This page gives the short “what do units do?” view. For depth, see Community
 - without a spike window, power looks big but yields little
 
 Deep exceptions and “why”:  
-👉 [../../community_insights/08_Counterintuitive_Truths.md](community_insights/08_Counterintuitive_Truths.md)
+👉 [../../community_insights/08_Counterintuitive_Truths.md](../../community_insights/08_Counterintuitive_Truths.md)

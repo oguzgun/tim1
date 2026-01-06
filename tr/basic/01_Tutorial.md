@@ -11,7 +11,7 @@ Bu bölüm yeni üyelerin **en sık yaptığı 10 hatayı** daha baştan kesmek 
 > **Altın kural:** Liderlik çağrısı yoksa büyük harcama yok.
 
 **Neden?** Uzun açıklama:  
-👉 [../community_insights/01_Early_Game_Myths.md](community_insights/01_Early_Game_Myths.md)
+👉 [../community_insights/01_Early_Game_Myths.md](../community_insights/01_Early_Game_Myths.md)
 
 ## 2) İlk ayın gerçek hedefi
 - HQ yolunu tıkamadan büyümek
@@ -26,4 +26,4 @@ Bu bölüm yeni üyelerin **en sık yaptığı 10 hatayı** daha baştan kesmek 
 - [ ] War günü: talimat yoksa saldırma
 
 Bu kuralların arkasındaki “yaşanmış örnekler”:  
-👉 [../community_insights/03_Events_Everyone_Misplays.md](community_insights/03_Events_Everyone_Misplays.md)
+👉 [../community_insights/03_Events_Everyone_Misplays.md](../community_insights/03_Events_Everyone_Misplays.md)

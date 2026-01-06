@@ -1,5 +1,5 @@
 # Liderlik Playbook (TR)
 
-- [R5](leadership/R5.md)
-- [R4](leadership/R4.md)
-- [Kriz Yönetimi](leadership/Crisis.md)
+- [R5](R5.md)
+- [R4](R4.md)
+- [Kriz Yönetimi](Crisis.md)

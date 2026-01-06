@@ -56,4 +56,4 @@ Early game is not about looking strong:
 - never leave research idle
 
 Next:  
-👉 [02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)
+👉 [02_Speedup_Economy.md](02_Speedup_Economy.md)

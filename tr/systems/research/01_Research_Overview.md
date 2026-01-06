@@ -9,4 +9,4 @@ Yanlış sırayla ilerlemek, aylar süren verimsizlik yaratır.
 - Geç: meta’ya göre savaş odaklı fine-tune
 
 “Keşke şöyle yapsaydım” pişmanlıkları:  
-👉 [../../community_insights/05_Research_Regrets.md](community_insights/05_Research_Regrets.md)
+👉 [../../community_insights/05_Research_Regrets.md](../../community_insights/05_Research_Regrets.md)

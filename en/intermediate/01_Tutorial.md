@@ -8,4 +8,4 @@ Goal: not individual power, but coordinated power.
 3) spike (finish together)
 
 Real postmortems:  
-👉 [../community_insights/07_Season_Postmortems.md](community_insights/07_Season_Postmortems.md)
+👉 [../community_insights/07_Season_Postmortems.md](../community_insights/07_Season_Postmortems.md)

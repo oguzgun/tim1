@@ -35,4 +35,4 @@ hepsini etkiler
 ---
 
 Sonraki okuma:  
-👉 [06_Building_and_HQ_Pain.md](community_insights/06_Building_and_HQ_Pain.md)
+👉 [06_Building_and_HQ_Pain.md](06_Building_and_HQ_Pain.md)

@@ -40,4 +40,4 @@ Queue varsa bile:
 ---
 
 Sonraki okuma:  
-👉 [07_Season_Postmortems.md](community_insights/07_Season_Postmortems.md)
+👉 [07_Season_Postmortems.md](07_Season_Postmortems.md)

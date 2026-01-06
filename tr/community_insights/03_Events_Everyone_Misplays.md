@@ -39,4 +39,4 @@ Veteran cevabı:
 ---
 
 Sonraki okuma:  
-👉 [04_Hero_Traps_and_Exceptions.md](community_insights/04_Hero_Traps_and_Exceptions.md)
+👉 [04_Hero_Traps_and_Exceptions.md](04_Hero_Traps_and_Exceptions.md)

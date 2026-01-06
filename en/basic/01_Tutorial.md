@@ -11,7 +11,7 @@ Power gaps usually come from:
 > **Golden rule:** No big spending without a leadership call.
 
 **Why this exists (long-form):**  
-👉 [../community_insights/01_Early_Game_Myths.md](community_insights/01_Early_Game_Myths.md)
+👉 [../community_insights/01_Early_Game_Myths.md](../community_insights/01_Early_Game_Myths.md)
 
 ## 2) The real first-month goal
 - grow without blocking your HQ path
@@ -26,4 +26,4 @@ Power gaps usually come from:
 - [ ] war day: no attacks without orders
 
 Real war/event case studies:  
-👉 [../community_insights/03_Events_Everyone_Misplays.md](community_insights/03_Events_Everyone_Misplays.md)
+👉 [../community_insights/03_Events_Everyone_Misplays.md](../community_insights/03_Events_Everyone_Misplays.md)

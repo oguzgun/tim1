@@ -10,4 +10,4 @@ This page summarizes the classic “HQ blockers”.
 - (server/season dependent) Tank/Air/Missile line centers
 
 HQ progression pain points (Reddit synthesis):  
-👉 [../../community_insights/06_Building_and_HQ_Pain.md](community_insights/06_Building_and_HQ_Pain.md)
+👉 [../../community_insights/06_Building_and_HQ_Pain.md](../../community_insights/06_Building_and_HQ_Pain.md)
