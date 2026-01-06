@@ -14,4 +14,4 @@
 - conflicts go to leadership, not public chat
 
 Why these rules exist:  
-👉 ../community_insights/03_Events_Everyone_Misplays.md
+👉 [../community_insights/03_Events_Everyone_Misplays.md](en/community_insights/03_Events_Everyone_Misplays.md)

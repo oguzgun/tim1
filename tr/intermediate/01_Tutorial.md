@@ -8,4 +8,4 @@ Bu aşamada hedef: tek tek güç değil, birlikte güç.
 3) Spike: aynı zaman diliminde bitiriş
 
 Bu döngünün sahadaki örnekleri:  
-👉 ../community_insights/07_Season_Postmortems.md
+👉 [../community_insights/07_Season_Postmortems.md](tr/community_insights/07_Season_Postmortems.md)

@@ -8,4 +8,4 @@ Hero investment is driven by:
 Blindly following tier lists without considering shard accessibility.
 
 Deep traps and exceptions:  
-👉 ../../community_insights/04_Hero_Traps_and_Exceptions.md
+👉 [../../community_insights/04_Hero_Traps_and_Exceptions.md](en/community_insights/04_Hero_Traps_and_Exceptions.md)

@@ -12,4 +12,4 @@ Bu sayfa “birimler ne işe yarar?” sorusunun kısa cevabıdır. Derinlik iç
 - Spike anı yoksa, güç artışı “görünür” ama sonuç üretmez
 
 Detaylı istisnalar ve “neden”ler:  
-👉 ../../community_insights/08_Counterintuitive_Truths.md
+👉 [../../community_insights/08_Counterintuitive_Truths.md](tr/community_insights/08_Counterintuitive_Truths.md)

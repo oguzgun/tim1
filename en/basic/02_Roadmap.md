@@ -21,4 +21,4 @@
 - fix mistakes early
 
 Deep speedup strategy:  
-👉 ../community_insights/02_Speedup_Economy.md
+👉 [../community_insights/02_Speedup_Economy.md](en/community_insights/02_Speedup_Economy.md)
