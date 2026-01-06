@@ -30,4 +30,4 @@ Strong alliances read server rhythm:
 ---
 
 Next:  
-👉 08_Counterintuitive_Truths.md
+👉 [08_Counterintuitive_Truths.md](community_insights/08_Counterintuitive_Truths.md)

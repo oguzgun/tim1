@@ -1,5 +1,5 @@
 # Cheat Sheets (TR)
 
-- [War Day](tr/cheat_sheets/War_Day.md)
-- [Event Window](tr/cheat_sheets/Event_Window.md)
-- [Speedup Quick Rules](tr/cheat_sheets/Speedup_Quick_Rules.md)
+- [War Day](cheat_sheets/War_Day.md)
+- [Event Window](cheat_sheets/Event_Window.md)
+- [Speedup Quick Rules](cheat_sheets/Speedup_Quick_Rules.md)

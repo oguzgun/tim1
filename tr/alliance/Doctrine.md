@@ -8,4 +8,4 @@ Bizim doktrinimiz 3 kelime:
 - Spike: ittifak gücünün görünür olduğu andır
 
 Bu doktrinin “Reddit kaynaklı” gerekçesi:  
-👉 [../community_insights/07_Season_Postmortems.md](tr/community_insights/07_Season_Postmortems.md)
+👉 [../community_insights/07_Season_Postmortems.md](community_insights/07_Season_Postmortems.md)

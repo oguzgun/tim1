@@ -8,4 +8,4 @@ Events are less about solo “completion” and more about alliance **timing**.
 3) scoring comes from completion, not starting
 
 Common misplays:  
-👉 [../../community_insights/03_Events_Everyone_Misplays.md](en/community_insights/03_Events_Everyone_Misplays.md)
+👉 [../../community_insights/03_Events_Everyone_Misplays.md](community_insights/03_Events_Everyone_Misplays.md)

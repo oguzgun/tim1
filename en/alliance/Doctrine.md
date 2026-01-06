@@ -8,4 +8,4 @@ Our doctrine in 3 words:
 - Spike: the moment alliance power becomes visible
 
 Why this wins (community postmortems):  
-👉 [../community_insights/07_Season_Postmortems.md](en/community_insights/07_Season_Postmortems.md)
+👉 [../community_insights/07_Season_Postmortems.md](community_insights/07_Season_Postmortems.md)

@@ -9,4 +9,4 @@
 - speedup’ları “bitiriş” için kullan
 
 Derin anlatım:  
-👉 [../community_insights/02_Speedup_Economy.md](tr/community_insights/02_Speedup_Economy.md)
+👉 [../community_insights/02_Speedup_Economy.md](community_insights/02_Speedup_Economy.md)

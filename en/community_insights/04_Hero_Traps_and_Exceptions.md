@@ -35,4 +35,4 @@ Veteran correction:
 ---
 
 Next:  
-👉 05_Research_Regrets.md
+👉 [05_Research_Regrets.md](community_insights/05_Research_Regrets.md)

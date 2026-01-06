@@ -1,5 +1,5 @@
 # Cheat Sheets (EN)
 
-- [War Day](en/cheat_sheets/War_Day.md)
-- [Event Window](en/cheat_sheets/Event_Window.md)
-- [Speedup Quick Rules](en/cheat_sheets/Speedup_Quick_Rules.md)
+- [War Day](cheat_sheets/War_Day.md)
+- [Event Window](cheat_sheets/Event_Window.md)
+- [Speedup Quick Rules](cheat_sheets/Speedup_Quick_Rules.md)
