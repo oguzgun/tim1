@@ -17,4 +17,3 @@ Browse the knowledge base:
 - **EN Cheat Sheets**: [en/cheat_sheets/README.md](en/cheat_sheets/README.md)
 - **EN Community Insights**: [en/community_insights/01_Early_Game_Myths.md](en/community_insights/01_Early_Game_Myths.md)
 
-_Generated: 2026-01-06 10:09 UTC_
